@@ -29,7 +29,7 @@ La página ha sido probada en el navegador Google Chrome, adaptándose a diferen
 - Resolución de 375px (dispositivos móviles)  
 
 ## Captura del proyecto  
-![Captura del proyecto](./img/cap.png)
+![Captura del proyecto](./img/Cap.png)
 
 ## Tecnologías utilizadas  
 - HTML5  
